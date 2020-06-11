@@ -11,7 +11,7 @@ In this module, you'll get an introduction to your Nanodegree program and obtain
 
 You'll also build your first project, modeled after the NASA Mars Rover Challenge.
 
-= Project: Search and Sample Return
+- Project: Search and Sample Return
 
 - Project: Robotic Arm: Pick & Place
 
