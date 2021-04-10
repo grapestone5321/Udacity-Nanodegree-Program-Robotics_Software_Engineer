@@ -52,6 +52,8 @@ https://github.com/grapestone5321/robond-mapping_and_slam
 
 https://github.com/grapestone5321/RoboND-DeepRL-Project
 
+https://github.com/grapestone5321/robond-deep_rl_arm_manipulation
+
 - Project: Home Service Robot
 
 https://github.com/grapestone5321/robond-home_service_robot
